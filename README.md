@@ -19,7 +19,6 @@ Edit
 python tts_windows.py
 Enter the text you want the computer to speak
 Enjoy the voice output!
-
 🧪 Sample Output
 perl
 Copy
